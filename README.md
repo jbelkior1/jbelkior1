@@ -1,6 +1,4 @@
-<h1 align="center">João Vitor Belchior</h1>
-
-<p align="center">Analista de dados · Ciência da Computação na FIAP · São Paulo</p>
+<a href="https://jbelkior.site"><img src="assets/banner.jpg" alt="João Vitor Belchior · Analista de dados · Ciência da Computação na FIAP" width="100%"></a>
 
 <p align="center">
   <a href="https://jbelkior.site"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0e7490?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPSd3aGl0ZScgc3Ryb2tlLXdpZHRoPScyJz48Y2lyY2xlIGN4PScxMicgY3k9JzEyJyByPScxMCcvPjxwYXRoIGQ9J00yIDEyaDIwTTEyIDJhMTUgMTUgMCAwIDEgMCAyME0xMiAyYTE1IDE1IDAgMCAwIDAgMjAnLz48L3N2Zz4%3D&logoColor=white" alt="Portfólio"></a>
@@ -25,17 +23,24 @@ WHERE  usuario = 'jbelkior1';
 
 ## Stack
 
-| | |
-|---|---|
-| **Dados e BI** | <img src="https://img.shields.io/badge/Power%20BI-161b22?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPSd3aGl0ZScgc3Ryb2tlLXdpZHRoPScyLjYnIHN0cm9rZS1saW5lY2FwPSdyb3VuZCc%2BPHBhdGggZD0nTTYgMjB2LTdNMTIgMjBWNE0xOCAyMHYtMTAnLz48L3N2Zz4%3D&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/Power%20Query-161b22?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPSd3aGl0ZScgc3Ryb2tlLXdpZHRoPScyLjInIHN0cm9rZS1saW5lam9pbj0ncm91bmQnPjxwYXRoIGQ9J00zIDRoMThsLTcgOHY2bC00IDJ2LTh6Jy8%2BPC9zdmc%2B&logoColor=white" alt="Power Query"> <img src="https://img.shields.io/badge/SQL%20Server-161b22?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPSd3aGl0ZScgc3Ryb2tlLXdpZHRoPScyJz48ZWxsaXBzZSBjeD0nMTInIGN5PSc1JyByeD0nOCcgcnk9JzMnLz48cGF0aCBkPSdNNCA1djE0YzAgMS43IDMuNiAzIDggM3M4LTEuMyA4LTNWNScvPjxwYXRoIGQ9J000IDEyYzAgMS43IDMuNiAzIDggM3M4LTEuMyA4LTMnLz48L3N2Zz4%3D&logoColor=white" alt="SQL Server"> <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"> |
-| **Python** | <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Pandas-161b22?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/NumPy-161b22?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/Scikit--Learn-161b22?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"> <img src="https://img.shields.io/badge/Jupyter-161b22?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"> |
-| **Automação e IA** | <img src="https://img.shields.io/badge/n8n-161b22?style=flat-square&logo=n8n&logoColor=white" alt="n8n"> <img src="https://img.shields.io/badge/LLMs-161b22?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nd2hpdGUnPjxwYXRoIGQ9J00xMiAybDIuMSA2LjJMMjAgMTBsLTUuOSAxLjhMMTIgMThsLTIuMS02LjJMNCAxMGw1LjktMS44eicvPjxwYXRoIGQ9J00xOSAxNWwuOSAyLjFMMjIgMThsLTIuMS45TDE5IDIxbC0uOS0yLjFMMTYgMThsMi4xLS45eicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="LLMs"> <img src="https://img.shields.io/badge/Ollama-161b22?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"> <img src="https://img.shields.io/badge/Hugging%20Face-161b22?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face"> |
-| **Web e banco** | <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/Tailwind%20CSS-161b22?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/Supabase-161b22?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"> |
-| **Ferramentas** | <img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/Google%20Colab-161b22?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab"> |
+**Dados e BI**<br>
+<img src="https://img.shields.io/badge/Power%20BI-161b22?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPSd3aGl0ZScgc3Ryb2tlLXdpZHRoPScyLjYnIHN0cm9rZS1saW5lY2FwPSdyb3VuZCc%2BPHBhdGggZD0nTTYgMjB2LTdNMTIgMjBWNE0xOCAyMHYtMTAnLz48L3N2Zz4%3D&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/Power%20Query-161b22?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPSd3aGl0ZScgc3Ryb2tlLXdpZHRoPScyLjInIHN0cm9rZS1saW5lam9pbj0ncm91bmQnPjxwYXRoIGQ9J00zIDRoMThsLTcgOHY2bC00IDJ2LTh6Jy8%2BPC9zdmc%2B&logoColor=white" alt="Power Query"> <img src="https://img.shields.io/badge/SQL%20Server-161b22?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPSd3aGl0ZScgc3Ryb2tlLXdpZHRoPScyJz48ZWxsaXBzZSBjeD0nMTInIGN5PSc1JyByeD0nOCcgcnk9JzMnLz48cGF0aCBkPSdNNCA1djE0YzAgMS43IDMuNiAzIDggM3M4LTEuMyA4LTNWNScvPjxwYXRoIGQ9J000IDEyYzAgMS43IDMuNiAzIDggM3M4LTEuMyA4LTMnLz48L3N2Zz4%3D&logoColor=white" alt="SQL Server"> <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+
+**Python**<br>
+<img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Pandas-161b22?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/NumPy-161b22?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/Scikit--Learn-161b22?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"> <img src="https://img.shields.io/badge/Jupyter-161b22?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+
+**Automação e IA**<br>
+<img src="https://img.shields.io/badge/n8n-161b22?style=flat-square&logo=n8n&logoColor=white" alt="n8n"> <img src="https://img.shields.io/badge/LLMs-161b22?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nd2hpdGUnPjxwYXRoIGQ9J00xMiAybDIuMSA2LjJMMjAgMTBsLTUuOSAxLjhMMTIgMThsLTIuMS02LjJMNCAxMGw1LjktMS44eicvPjxwYXRoIGQ9J00xOSAxNWwuOSAyLjFMMjIgMThsLTIuMS45TDE5IDIxbC0uOS0yLjFMMTYgMThsMi4xLS45eicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="LLMs"> <img src="https://img.shields.io/badge/Ollama-161b22?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"> <img src="https://img.shields.io/badge/Hugging%20Face-161b22?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face">
+
+**Web e banco**<br>
+<img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/Tailwind%20CSS-161b22?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/Supabase-161b22?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+
+**Ferramentas**<br>
+<img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/Google%20Colab-161b22?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab">
 
 ## Dashboards
 
-Clique num painel para abrir e mexer nos filtros.
+Réplicas de painéis que montei: os indicadores, os filtros e a disposição seguem o original, e todos os números são fictícios. Clique para abrir e mexer nos filtros.
 
 <table>
 <tr>
@@ -62,26 +67,30 @@ Clique num painel para abrir e mexer nos filtros.
 <sub>Python + Power BI · demanda prevista com faixa de confiança e pessoas necessárias por semana</sub>
 </td>
 </tr>
+</table>
+
+<p align="center"><a href="https://jbelkior.site">Ver os 5 painéis no portfólio</a></p>
+
+## Projetos
+
+<table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://jbelkior.site/dashboards/smart-ev-traceability"><img src="assets/dashboard-recarga.jpg" alt="Recarga de carros elétricos"></a><br>
-<b><a href="https://jbelkior.site/dashboards/smart-ev-traceability">Recarga de carros elétricos</a></b><br>
-<sub>Python · energia entregue, carga por hora, tarifa e CO₂ evitado</sub>
+<a href="https://jbelkior1.github.io/gs_goodwe/"><img src="assets/projeto-pontow.jpg" alt="Ponto W"></a><br>
+<b>Ponto W</b><br>
+<sub>Sistema de gestão de recarga elétrica comercial, do EV Challenge 2026 (GoodWe × FIAP). Quatro painéis: motorista, totem, franqueado e franqueadora.</sub><br><br>
+<a href="https://github.com/jbelkior1/gs_goodwe"><img src="https://img.shields.io/badge/c%C3%B3digo-161b22?style=flat-square&logo=github&logoColor=white" alt="código"></a> <a href="https://jbelkior1.github.io/gs_goodwe/"><img src="https://img.shields.io/badge/no%20ar-0e7490?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPSd3aGl0ZScgc3Ryb2tlLXdpZHRoPScyJz48Y2lyY2xlIGN4PScxMicgY3k9JzEyJyByPScxMCcvPjxwYXRoIGQ9J00yIDEyaDIwTTEyIDJhMTUgMTUgMCAwIDEgMCAyME0xMiAyYTE1IDE1IDAgMCAwIDAgMjAnLz48L3N2Zz4%3D&logoColor=white" alt="no ar"></a>
 </td>
-<td width="50%" valign="middle">
-Cada painel é uma réplica de um dashboard que montei: os indicadores, os filtros e a disposição seguem o original, e todos os números são fictícios.<br><br>
-<a href="https://jbelkior.site">Abrir o portfólio</a>
+<td width="50%" valign="top">
+<a href="https://jbelkior1.github.io/gs_vr/"><img src="assets/projeto-vr.jpg" alt="Ponto W em VR"></a><br>
+<b>Ponto W em VR</b><br>
+<sub>A partir de uma foto do estacionamento, estima se o eletroposto cabe e abre o local em realidade virtual no celular.</sub><br><br>
+<a href="https://github.com/jbelkior1/gs_vr"><img src="https://img.shields.io/badge/c%C3%B3digo-161b22?style=flat-square&logo=github&logoColor=white" alt="código"></a> <a href="https://jbelkior1.github.io/gs_vr/"><img src="https://img.shields.io/badge/no%20ar-0e7490?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPSd3aGl0ZScgc3Ryb2tlLXdpZHRoPScyJz48Y2lyY2xlIGN4PScxMicgY3k9JzEyJyByPScxMCcvPjxwYXRoIGQ9J00yIDEyaDIwTTEyIDJhMTUgMTUgMCAwIDEgMCAyME0xMiAyYTE1IDE1IDAgMCAwIDAgMjAnLz48L3N2Zz4%3D&logoColor=white" alt="no ar"></a>
 </td>
 </tr>
 </table>
 
-## Projetos
-
-| Projeto | O que é | Links |
-|---|---|---|
-| **Ponto W** | Sistema de gestão de recarga elétrica comercial, do EV Challenge 2026 (GoodWe × FIAP). Quatro painéis: motorista, totem, franqueado e franqueadora. React, TypeScript e Recharts. | [código](https://github.com/jbelkior1/gs_goodwe) · [no ar](https://jbelkior1.github.io/gs_goodwe/) |
-| **Ponto W em VR** | A partir de uma foto do estacionamento, estima se o eletroposto cabe e abre o local em realidade virtual no celular (WebXR). | [código](https://github.com/jbelkior1/gs_vr) · [no ar](https://jbelkior1.github.io/gs_vr/) |
-| **Machine Learning** | Análise bivariada e regressão linear simples (OLS) em Python, com a leitura de cada resultado: correlação de 0,976 e R² de 0,952. | [código](https://github.com/jbelkior1/Machine_Learning) |
+Também: [**Machine Learning**](https://github.com/jbelkior1/Machine_Learning), análise bivariada e regressão linear simples (OLS) em Python, com correlação de 0,976 e R² de 0,952.
 
 ## Formação
 
